@@ -8,7 +8,7 @@ Nothing secret must be commited to this repository.
 
 On your server:
 
-```
+```sh
 cd /home/openfisca
 git clone git@github.com:openfisca/openfisca-ops.git
 ```
